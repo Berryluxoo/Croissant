@@ -9,21 +9,20 @@ h1 {
 }
 
 body {
-  background-color: #F0BC6B;
+  background-color: #87b599;
 }
 
 .nav {
-    margin: 20px 50px 20px 50px;
-    
+  margin: 20px 50px 20px 50px;
 }
 
 .nav a {
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
 }
 
 p {
-    font-size: 18px;
-    text-align: center;
+  font-size: 18px;
+  text-align: center;
 }
